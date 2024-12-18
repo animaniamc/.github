@@ -3,7 +3,7 @@
 
 Animania is the new gen mode for The Minecraft Server Creepercraft that involves some cool features such as an anime battlegroiund game inside the server
 * [The website isnt done yet](https://creeperhub.net/animania)
-* [Check out the Creepercraft Server website](https://creepercraft.xyz)
+* [Check out the Creepercraft Server website](https://creepercraft.net)
 * [Check out the status of the project](https://status.creepercraft.eu.org)
 
 Visit [t.me/creepercraftoff](https://t.me/creepercraftoff) to learn more! (our telegram)
