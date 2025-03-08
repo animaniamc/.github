@@ -6,7 +6,7 @@ Animania is the new gen mode for The Minecraft Server Creepercraft that involves
 * [Check out the Creepercraft Server website](https://creepercraft.net)
 * [Check out the status of the project](https://status.creepercraft.net)
 
-Visit [t.me/creepercraftoff](https://t.me/creepercraftnet) to learn more! (our telegram)
+Visit [t.me/creepercraftnet](https://t.me/creepercraftnet) to learn more! (our telegram)
 
 ----
 
