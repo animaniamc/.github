@@ -1,4 +1,4 @@
-![Welcome to animania](https://github.com/animaniaMC/.github/blob/main/Animania%20Lungo%20V1-modified.png)
+![Welcome to animania](https://github.com/animaniaMC/.github/blob/main/animania-banner.png)
 ## What's animania?
 
 Animania is the new gen mode for The Minecraft Server Creepercraft that involves some cool features such as an anime battlegroiund game inside the server
